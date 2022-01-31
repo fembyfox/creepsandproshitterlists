@@ -10,3 +10,8 @@ Note that these are PC browser extensions,and twitter does not like these tools!
 
 
 # NEITHER I,NOR THE DEVS OF RED BLOCK ARE RESPONSIBLE FOR ANY NEGATIVE CONSEQUENCES THAT ARISE FROM USE OF THIS REPO
+
+
+The definition of Proship/Proshipping: either seeing no issue with,or being against the harrassment of people who enjoy certain ships,which include l0li and sh0ta content, among many others.
+
+i am not against harrassing these people but if i had a user readable list both twtter and github would send me into the ether
