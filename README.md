@@ -1,4 +1,4 @@
-# proshitterlists
+# creeps and proshitters
 Red Block compatible lists of accounts that follow proship accounts. uses UUIDs so you cant just scour the list to find people to harrass
 You can,however use these lists with Red Block to remove these scum followers from existence. Sadly the individuals arent in these lists,but the filenames have them in there in case you want to manually handle the blocking. Adding people's follower lists that are generally creepy in nature as well
 
